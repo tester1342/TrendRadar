@@ -1,16 +1,25 @@
-胖东来
-于东来
-
 DeepSeek
-梁文锋
+
+ChatGPT
 
 华为
-鸿蒙
-HarmonyOS
-任正非
 
 比亚迪
 王传福
+
+HP
+惠普
+
+超微
+supermicro
+
+华三
+
+浪潮
+
+mcp
+
+阿里
 
 大疆
 DJI
@@ -20,18 +29,7 @@ DJI
 
 智元
 灵犀
-稚晖君
-彭志辉
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
 !车
 !餐
 
@@ -40,7 +38,8 @@ DJI
 刘慈欣
 郭帆
 
-申奥
+谷歌
+Google
 
 京东
 刘强东
@@ -72,11 +71,6 @@ sora
 
 claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
